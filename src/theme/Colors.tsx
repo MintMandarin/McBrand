@@ -1,0 +1,17 @@
+export default {
+    transparent: 'transparent',
+    maintextcolor:'#C31B1B',
+    white: 'white',
+    activecolor: '#FEBA1C',
+    barcolor: '#6F4307',
+    black: '#1C1C27',
+    bordercolor:'#6262624D',
+    InputColor:'#1B1B1B',
+    gray: '#81827C',
+    textcolor:'#7D7E80',
+    text2color: '#464646',
+    text3color:'#585858',
+    lightgray: '#E2E8F0',
+    lightgold: '#ECC77C',
+    darkgold: '#DCAC4B',
+}
